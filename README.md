@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unitokuri
-- 👀 I’m interested in metaverse and concert cunsulting
+- 👀 Interested = Game Design, Concert cunsulting, j-pop
 - 🌱 I’m currently learning media and statistics
 
 
