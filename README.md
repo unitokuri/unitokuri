@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @unitokuri
-- 👀 Interested = Game Design, Concert cunsulting, j-pop
-- 🌱 I’m currently learning media and statistics
+-  I graduated Jeju National University
+-  My major is Ocean Mechanic and Janpanese literature
+-  Interested = Game Design, Concert cunsulting, j-pop
+-  I’m currently learning media and statistics
 
 
 <!---
